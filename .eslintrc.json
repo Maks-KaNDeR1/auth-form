@@ -1,0 +1,10 @@
+{
+  "extends": ["next/core-web-vitals"],
+  "rules": {
+    "object-curly-spacing": ["warn", "never"],
+    "comma-dangle": ["error", "always-multiline"],
+    "no-multi-spaces": ["error"],
+    "no-trailing-spaces": ["error"],
+    "eol-last": ["error", "always"]
+  }
+}
